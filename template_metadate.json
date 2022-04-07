@@ -1,0 +1,15 @@
+{
+"name":"TITLE OF YOUR PIECE HERE",
+"description":"DESCRIPTION OF YOUR PIECE HERE",
+"symbol": "SHIKAKU",
+"image":"ipfs://QmxxxxxxxxxxYOUR-CID-HERExxxxx",
+"artifactUri":"ipfs://QmxxxxxxxxxxYOUR-CID-HERExxxxx",
+"displayUri":"ipfs://QmxxxxxxxxxxYOUR-CID-HERExxxxx",
+"thumbnailUri":"ipfs://QmxxxxxxxxxxYOUR-CID-HERExxxxx",
+"creators":["tzYOUR-TEZOS-WALLET-ADDRESS-HERE"],
+"formats":[{"uri":"ipfs://QmxxxxxxxxxxYOUR-CID-HERExxxxx",
+"mimeType":"image/png"}],
+"decimals":0,
+"isBooleanAmount":false,
+"shouldPreferSymbol":false
+}
